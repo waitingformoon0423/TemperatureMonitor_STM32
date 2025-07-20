@@ -60,7 +60,7 @@
 ├── 风扇控制
 │   ├── VCC → 5V（板载5V输出）
 │   ├── GND → GND
-│   ├── PWM → PB0（TIM3_CH3）
+│   ├── PWM → PB5（TIM3_CH2）
 ├── 蜂鸣器
 │   ├── VCC → 3.3V
 │   ├── GND → GND
